@@ -1,9 +1,6 @@
 # Interactive Quiz Application
 
 An interactive quiz application that allows users to answer questions, check their scores, and test their knowledge through a user-friendly interface.
-
-Inspired by [interactive-quiz-application](https://github.com/kanishka25bcon1140-art/interactive-quiz-application).
-
 ## Features
 
 - Five multiple-choice questions
